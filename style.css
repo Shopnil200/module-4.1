@@ -34,3 +34,21 @@ section {
   background-image: url(images/top-banner.png);
   background-repeat: no-repeat;
 }
+.heading {
+  padding-left: 0.5em;
+  color: red;
+}
+.ul {
+  color: grey;
+}
+#second {
+  padding-top: 90px;
+}
+.links {
+  text-decoration: none;
+  background-image: linear-gradient(black, red);
+  color: white;
+  border-radius: 2px;
+  font-weight: 500;
+  padding
+}
