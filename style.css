@@ -46,3 +46,53 @@ h1 {
 #second {
   padding-top: 90px;
 }
+.texts{
+  text-decoration: none;
+  background-image: linear-gradient(black, red);
+  color: white;
+  border-radius: 2px;
+  font-weight: 500;
+  padding-left: 0px;
+  
+}
+.textp{
+  text-decoration: none;
+  background-image: linear-gradient(black, red);
+  color: white;
+  border-radius: 2px;
+  font-weight: 500;
+  padding-left: 0px;
+  
+}
+.textv{
+  text-decoration: none;
+  background-image: linear-gradient(black, red);
+  color: white;
+  border-radius: 2px;
+  font-weight: 500;
+  padding-left: 0px;
+  
+}
+.textz{
+  text-decoration: none;
+  background-image: linear-gradient(black, red);
+  color: white;
+  border-radius: 2px;
+  font-weight: 500;
+  padding-left: 0px;
+  
+}
+.textd{
+  text-decoration: none;
+  background-image: linear-gradient(black, red);
+  color: white;
+  border-radius: 2px;
+  font-weight: 500;
+  padding-left: 0px;
+  
+}
+.chill{
+  padding-left: 5%;
+  color: red;
+}
+
